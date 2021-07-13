@@ -36,7 +36,6 @@ public class Producto {
 	private Usuario usuario;
 	
 	public Producto() {
-		
 	}
 	
 	
